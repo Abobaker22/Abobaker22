@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abobaker</h1>
-<h3 align="center">Aspiring Fullstack .NET Developer with a solid foundation in programming, problem-solving, and web development. Skilled in C#, JavaScript, SQL, and adhering to OOP, SOLID principles, synchronization, and database concepts. Dedicated to building efficient, scalable, and user-friendly applications.</h3>
+<h3 align="center">Aspiring Backend .NET Developer with a solid foundation in programming, problem-solving, and web development. Skilled in C#, JavaScript, SQL, and adhering to OOP, SOLID principles, synchronization, and database concepts. Dedicated to building efficient, scalable, and user-friendly applications.</h3>
 
 - 🌱 I’m currently learning **ASP.NET Core**
 
