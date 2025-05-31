@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ahmedabobaker22@gmail.com**
 
-- 📄 Know about my experiences [[https://docs.google.com/document/d/1B-RIy0fwXFNaQnRHWelnehINC2mNIIC_/edit?usp=sharing&ouid=105832961869627447858&rtpof=true&sd=true](https://drive.google.com/file/d/1nPKDyU8r0Ol-tcD0GgHXpRgdcoxcKlG6/view?usp=sharing)](https://docs.google.com/document/d/1B-RIy0fwXFNaQnRHWelnehINC2mNIIC_/edit?usp=sharing&ouid=105832961869627447858&rtpof=true&sd=true)
+- 📄 Know about my experiences https://drive.google.com/file/d/1nPKDyU8r0Ol-tcD0GgHXpRgdcoxcKlG6/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
